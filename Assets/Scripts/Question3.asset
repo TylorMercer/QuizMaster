@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question3
   m_EditorClassIdentifier: 
   question: What is 2+2?
+  answers:
+  - 3
+  - 4
+  - 5
+  - 1
+  correctAnswerIndex: 1

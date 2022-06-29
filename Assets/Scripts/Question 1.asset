@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 1
   m_EditorClassIdentifier: 
   question: What do you feel like?
+  answers:
+  - A turtle
+  - A plastic bag
+  - ' A rock'
+  - inside joke
+  correctAnswerIndex: 1

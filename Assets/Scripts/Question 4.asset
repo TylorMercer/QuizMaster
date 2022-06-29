@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 4
   m_EditorClassIdentifier: 
   question: The year WoW came out?
+  answers:
+  - 2011
+  - 2004
+  - 205
+  - 2008
+  correctAnswerIndex: 1
