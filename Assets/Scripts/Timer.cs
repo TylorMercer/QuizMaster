@@ -10,6 +10,7 @@ public class Timer : MonoBehaviour
     public bool loadNextQuestion;
     public bool isAnsweringQuestion = false;
     public float fillFraction;
+    
     float timerValue;
 
     void Update()
@@ -49,6 +50,5 @@ public class Timer : MonoBehaviour
                 loadNextQuestion = true;
             }
         }
-        Debug.Log(isAnsweringQuestion + ": " + timerValue + " = " + fillFraction);
     }
 }
